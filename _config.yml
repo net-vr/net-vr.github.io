@@ -4,7 +4,7 @@ bio:            'Не судите строго - сайт находится в
 description:    "Разработка приложений в Ташкенте. Разработка сайтов в Ташкенте. Разработка ботов в Telegram. SMM в Ташкенте. Разработка vr приложений в Ташкенте. Разработка сайтов vr в Ташкенте"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            net-vr.github.io
+url:            
 
 # Jekyll
 permalink:      /:title/
