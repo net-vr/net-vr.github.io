@@ -3,11 +3,11 @@
 - title: Главная 
   url: /
 
-- title: Blog
+- title: Проекты
   url: /blog/
 
-- title: Projects
-  url: /projects/
+- title: Мой Telegram
+  url: t.me/b4gid
 
-- title: About
+- title: Инфа
   url: /about/
